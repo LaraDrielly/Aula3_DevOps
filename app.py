@@ -1,0 +1,1 @@
+print ("Olá, meu nome é Lara Drielly, muito prazer! 🥰")
